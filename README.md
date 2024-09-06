@@ -1,8 +1,8 @@
-# Shiny app for random forest predictor
+# SpondyloMet Classifier
 
-[Web app](https://natasabrisudova.shinyapps.io/ML-app/) using Shiny for binary prediction. 
+This repository contains the source code for the article below.
 
-Prediction is made using the final random forest model from publication:
+Best model can be accessed at Shiny [web app](https://natasabrisudova.shinyapps.io/ML-app/). Prediction is made using the final random forest model.
 
 ---
 
